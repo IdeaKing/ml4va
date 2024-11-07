@@ -1,5 +1,6 @@
 # Datafile
 ./data/crash_data.csv
+data/crash_data.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
