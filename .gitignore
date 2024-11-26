@@ -2,6 +2,8 @@
 ./data/crash_data.csv
 data/crash_data.csv
 
+*.mp4
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
